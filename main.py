@@ -2,7 +2,7 @@ import logging
 import wikipedia
 
 from aiogram import Bot, Dispatcher, executor, types
-API_TOKEN = '5470198871:AAENlaFtw9R3imSwPKxu8Mn13lMfIt6HUuY'
+API_TOKEN = ''
 wikipedia.set_lang('uz')
 
 # Configure logging
